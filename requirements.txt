@@ -1,2 +1,3 @@
-nose
-sphinx
+pytest
+flake8
+pep8-naming
